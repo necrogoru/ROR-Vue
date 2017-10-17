@@ -6,19 +6,8 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
+  ruby 2.3.3p222
 * System dependencies
-
+  Rails 5.0.6
 * Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  Just download and run "bundle install", after add and generate all things that you need
